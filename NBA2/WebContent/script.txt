@@ -1,4 +1,4 @@
-sample text here
+sample text here2
 CREATE TABLE  "USERS" 
    (	"USERID" NUMBER(6,0) NOT NULL ENABLE, 
 	"USERTYPE" NUMBER(1,0) NOT NULL ENABLE, 
