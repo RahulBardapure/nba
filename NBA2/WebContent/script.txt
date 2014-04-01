@@ -1,4 +1,6 @@
 sample text here3
+added by rahul-pc
+
 CREATE TABLE  "USERS" 
    (	"USERID" NUMBER(6,0) NOT NULL ENABLE, 
 	"USERTYPE" NUMBER(1,0) NOT NULL ENABLE, 
